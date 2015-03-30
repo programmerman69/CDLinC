@@ -1,5 +1,5 @@
 # CDLinC Library
-This library enables you to send and receive CLD messages using simple C.
+This library enables you to send and receive CDL messages using simple C.
 
 Check [here](https://github.com/programmerman69) for tutorials and more information.
 
